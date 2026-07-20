@@ -1,8 +1,8 @@
-# 🏦 Banking Application
+#  Banking Application
 
 A RESTful Banking Application built using **Spring Boot**, **Spring Data JPA**, and **MySQL**. It provides APIs for managing bank accounts, including account creation, deposits, withdrawals, and balance retrieval.
 
-## 🚀 Features
+##  Features
 
 - Create Bank Account
 - Deposit Money
@@ -13,7 +13,7 @@ A RESTful Banking Application built using **Spring Boot**, **Spring Data JPA**, 
 - REST APIs
 - Exception Handling
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Java 21
 - Spring Boot
@@ -23,7 +23,7 @@ A RESTful Banking Application built using **Spring Boot**, **Spring Data JPA**, 
 - IntelliJ IDEA
 - Git & GitHub
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 src
@@ -36,7 +36,7 @@ src
  └── exception
 ```
 
-## ⚙️ Installation
+##  Installation
 
 ```bash
 git clone https://github.com/Shambhavisharma13/Banking-App.git
@@ -48,7 +48,7 @@ Open in IntelliJ and run:
 BankingApplication.java
 ```
 
-## 📌 API Endpoints
+##  API Endpoints
 
 | Method | Endpoint | Description |
 |---------|----------|-------------|
@@ -58,7 +58,7 @@ BankingApplication.java
 | PUT | /api/accounts/{id}/withdraw | Withdraw |
 | DELETE | /api/accounts/{id} | Delete Account |
 
-## 👩‍💻 Author
+##  Author
 
 **Shambhavi Sharma**
 
