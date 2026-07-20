@@ -5,4 +5,5 @@ import net.javaguides.banking.entity.Account;
 
 public interface AccountService {
     AccountDto createAccount(AccountDto account);
+    Account getAccountById(Long id);
 }
