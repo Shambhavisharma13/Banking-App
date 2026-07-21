@@ -58,6 +58,24 @@ BankingApplication.java
 | PUT | /api/accounts/{id}/withdraw | Withdraw |
 | DELETE | /api/accounts/{id} | Delete Account |
 
+
+#  Screenshots
+
+## Database Table
+
+![Database Table](src/Screenshots/Table.png)
+
+---
+
+##  POST API
+
+![POST API](src/Screenshots/Post%20Api.png)
+
+---
+
+##  GET API
+
+![GET API](src/Screenshots/Get%20Api.png)
 ##  Author
 
 **Shambhavi Sharma**
