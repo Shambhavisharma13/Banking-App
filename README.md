@@ -76,6 +76,10 @@ BankingApplication.java
 ##  GET API
 
 ![GET API](src/Screenshots/Get%20Api.png)
+
+## 🔄 PUT API
+
+![PUT API](src/Screenshots/put%20Api.png)
 ##  Author
 
 **Shambhavi Sharma**
