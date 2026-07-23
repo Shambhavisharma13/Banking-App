@@ -80,6 +80,22 @@ BankingApplication.java
 ## 🔄 PUT API
 
 ![PUT API](src/Screenshots/put%20Api.png)
+
+## 🔹 Get All Accounts
+
+![Get All Accounts](screenshots/get-all-accounts.png)
+
+---
+
+## 🔹 Delete Account
+
+![Delete Account](screenshots/delete-account.png)
+
+---
+
+##🔹 MySQL Database
+
+![MySQL Database](screenshots/mysql-database.png)
 ##  Author
 
 **Shambhavi Sharma**
