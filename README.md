@@ -81,22 +81,28 @@ BankingApplication.java
 
 ![PUT API](src/Screenshots/put%20Api.png)
 
-## 🔹 Get All Accounts
+## 📸 Screenshots
 
-![Get All Accounts](screenshots/get-all-accounts.png)
+### 🔹 Get All Accounts
+
+![Get All Accounts](https://raw.githubusercontent.com/Shambhavisharma13/Banking-App/main/Get%20All%20Accounts.png)
+
+### 🔹 Delete Account
+
+![Delete Account](https://raw.githubusercontent.com/Shambhavisharma13/Banking-App/main/Delete%20Api.png)
+
+### 🔹 MySQL Database
+
+![MySQL Database](https://raw.githubusercontent.com/Shambhavisharma13/Banking-App/main/DELETE%20DATABASE.png)
 
 ---
 
-## 🔹 Delete Account
+## 👩‍💻 Author
 
-![Delete Account](screenshots/delete-account.png)
+**Shambhavi Sharma**
 
----
-
-##🔹 MySQL Database
-
-![MySQL Database](screenshots/mysql-database.png)
-##  Author
+- GitHub: https://github.com/Shambhavisharma13
+- LinkedIn: *(Add your LinkedIn profile link here)*
 
 **Shambhavi Sharma**
 
